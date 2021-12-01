@@ -1,8 +1,6 @@
 ### Hi there, I'm Sadegh 👋
 
 ## I'm a Front-End Developer, Designer, and College Student!
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a project for my portfolio
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
