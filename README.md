@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="reddit" title="Reddit" width="28px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_reddit_robot-256.png" />][reddit]
 [<img align="left" alt="discord" title="Discord | + 20Sadegh +#0838" width="28px" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/discord_message_interaction_logo_communication-256.png" />][discord]
 [<img align="left" alt="whatsapp" title="Whatsapp" width="28px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Whatsapp_telephone_handset-256.png" />][whatsapp]
+[<img align="left" alt="email" title="Email" width="28px" src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/Gmail_envelope_letter_email_Gmail_envelope_letter_email-256.png" />][email]
 
 
 [website]: https://sadegh.com
@@ -31,4 +32,4 @@ Here are some ideas to get you started:
 [reddit]: https://www.reddit.com/user/SadeghPhantom
 [discord]: https://discordapp.com/users/+%20Sadegh%20+#0838
 [whatsapp]: https://wa.me/+989033007793
-
+[email]: sadegh.rsg@gmail.com
