@@ -1,4 +1,4 @@
-### Hi there, I'm Sadegh 👋
+### Hi there, I'm Sadegh 👋 <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" />
 
 ## I'm a Front-End Developer, Designer, and College Student!
 - 🔭 I’m currently working on a project for my portfolio
