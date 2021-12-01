@@ -1,6 +1,6 @@
-### Hi there, I'm Sadegh 👋
+### **Hi there, I'm Sadegh 👋**
 
-## I'm a Front-End Developer, Designer, and College Student!
+## **I'm a Front-End Developer, Designer, and College Student!**
 - 🔭 I’m currently working on a project for my portfolio
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: One thing I cannot live without is my spotify playlists
 
-### Connect with me:
+### **Connect with me:**
 
 [<img align="left" alt="twitter" title="Twitter" width="28px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-256.png" />][twitter]
 [<img align="left" alt="telegram" title="Telegram" width="28px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_telegram_Airplane_Air_plane_paper_airplane-33-256.png" />][telegram]
