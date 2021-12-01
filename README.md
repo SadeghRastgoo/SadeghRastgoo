@@ -1,6 +1,6 @@
 ### **Hi there, I'm Sadegh 👋**
 
-<img align="middle" width="50%" src="https://media4.giphy.com/media/tlGD7PDy1w8fK/200.gif">
+<img src="https://media4.giphy.com/media/tlGD7PDy1w8fK/200.gif">
 
 ## **I'm a Front-End Developer, Designer, and College Student!**
 - 🔭 I’m currently working on a project for my portfolio
