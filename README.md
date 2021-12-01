@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="personal portfolio" width="28px" src="https://cdn-icons.flaticon.com/png/512/3308/premium/3308395.png?token=exp=1638364723~hmac=efd0d29ca86bd9ae6f275a9437d7d0e4" />][website]
 [<img align="left" alt="twitter" title="Twitter" width="28px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-256.png" />][twitter]
 [<img align="left" alt="telegram" title="Telegram" width="28px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_telegram_Airplane_Air_plane_paper_airplane-33-256.png" />][telegram]
-[<img align="left" alt="linkedin" width="28px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-256.png" />][linkedin]
+[<img align="left" alt="linkedin" title="LinkedIn" width="28px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-256.png" />][linkedin]
 [<img align="left" alt="instagram" title="Instagram" width="28px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_instagram-256.png" />][instagram]
+[<img align="left" alt="reddit" title="Reddit" width="28px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_reddit_robot-256.png" />][reddit]
 
 
 [website]: https://sadegh.com
