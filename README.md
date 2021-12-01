@@ -1,6 +1,6 @@
 ### Hi there, I'm Sadegh 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sadegh.com)
 
 ## I'm a Front-End Developer, Designer, and College Student!
 Here are some ideas to get you started:
