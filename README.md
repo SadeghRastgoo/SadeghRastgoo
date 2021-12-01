@@ -54,7 +54,7 @@
 
 
 <br/>
-## **Stats**
+## Stats
 
 ![sadeghrastgoo's github stats](https://github-readme-stats.vercel.app/api?username=sadeghrastgoo&show_icons=true&theme=dracula)
 
