@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for a Job opportunity...
 - 🥅 2022 Goal: Apply for a junior front-end developer position 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: One thing I cannot live without is my spotify playlists
 
 ### Connect with me:
