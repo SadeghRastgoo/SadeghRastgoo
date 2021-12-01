@@ -1,4 +1,4 @@
-### Hi there, I'm Sadegh 👋
+# Hi there, I'm Sadegh 👋
 
 ## I'm a Front-End Developer, Designer, and College Student!
 - 🔭 I’m currently working on a project for my portfolio
