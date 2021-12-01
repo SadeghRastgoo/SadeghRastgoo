@@ -22,7 +22,9 @@
 
 
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SadeghRastgoo)](https://github.com/anuraghazra/github-readme-stats)
+## 𝗦𝘁𝗮𝘁𝘀
+
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=sadeghrastgoo&show_icons=true&theme=dracula)
 
 
 [website]: https://sadegh.com
