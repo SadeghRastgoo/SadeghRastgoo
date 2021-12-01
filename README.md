@@ -51,9 +51,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
-<br/>
+<br/><br/>
 ## **Stats**
 
 ![sadeghrastgoo's github stats](https://github-readme-stats.vercel.app/api?username=sadeghrastgoo&show_icons=true&theme=dracula)
