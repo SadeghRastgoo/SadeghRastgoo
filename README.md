@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="twitter address" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn address" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram address" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
+[website]: https://sadegh.com
+[twitter]: https://twitter.com/Sadeeeegh
+[instagram]: https://instagram.com/sadeghrastgooo
+[linkedin]: https://linkedin.com/in/sadegh-rastgoo
