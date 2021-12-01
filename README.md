@@ -21,6 +21,10 @@
 [<img align="left" alt="email" title="Email" width="28px" src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/Gmail_envelope_letter_email_Gmail_envelope_letter_email-256.png" />][email]
 
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SadeghRastgoo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [website]: https://sadegh.com
 [twitter]: https://twitter.com/Sadeeeegh
 [telegram]: https://t.me/Sadegh_Rsg
