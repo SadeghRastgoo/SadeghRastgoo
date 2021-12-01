@@ -21,11 +21,10 @@
 [<img align="left" alt="email" title="Email" width="28px" src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/Gmail_envelope_letter_email_Gmail_envelope_letter_email-256.png" />][email]
 
 
-<br/>
-## 𝗦𝘁𝗮𝘁𝘀
+<br/><br/>
+## Stats
 
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=sadeghrastgoo&show_icons=true&theme=dracula)
-
 
 [website]: https://sadegh.com
 [twitter]: https://twitter.com/Sadeeeegh
