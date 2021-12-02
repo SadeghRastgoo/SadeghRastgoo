@@ -2,7 +2,7 @@
 
 <img src="https://c.tenor.com/P8VsDwHZreYAAAAd/tobey-maguire-spider-man.gif" width="43%" align="right">
 
-## **I'm a Front-End Developer, Designer, and College Student!**
+## **I'm a Front-End Developer, Designer, and College Student! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">**
 
 - 🔭 I’m currently working on a project for my portfolio
 - 🌱 I’m currently learning everything
