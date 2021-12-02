@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: One thing I cannot live without is my spotify playlists
 
-<img src="https://media4.giphy.com/media/tlGD7PDy1w8fK/200.gif" style="float: right">
+<img src="https://media4.giphy.com/media/tlGD7PDy1w8fK/200.gif" align="right">
 
 ### **Connect with me:**
 
