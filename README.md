@@ -1,10 +1,8 @@
 ### **Hi there, I'm Sadegh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello">**
 
-
-## **I'm a Front-End Developer, Designer, and College Student!**
-
 <img src="https://c.tenor.com/P8VsDwHZreYAAAAd/tobey-maguire-spider-man.gif" width="43%" style="float:left;margin:0 10px 10px 0">
 
+## **I'm a Front-End Developer, Designer, and College Student!**
 
 - 🔭 I’m currently working on a project for my portfolio
 - 🌱 I’m currently learning everything
