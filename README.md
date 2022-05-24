@@ -1,6 +1,5 @@
 ### **Hi there, I'm Sadegh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello">**
 
-<img src="https://c.tenor.com/P8VsDwHZreYAAAAd/tobey-maguire-spider-man.gif" width="43%" align="right">
 
 ## **I'm a Front-End Developer, Designer, and College Student!**
 
@@ -12,6 +11,9 @@
 - 📫 How to reach me: <a src="sadegh.rsg@gmail.com">sadegh.rsg@gmail.com</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: One thing I cannot live without is my spotify playlists
+
+<img src="https://c.tenor.com/P8VsDwHZreYAAAAd/tobey-maguire-spider-man.gif" width="43%" align="right">
+
 
 ### **Connect with me:**
 
