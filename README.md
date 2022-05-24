@@ -3,7 +3,7 @@
 
 ## **I'm a Front-End Developer, Designer, and College Student!**
 
-<img src="https://c.tenor.com/P8VsDwHZreYAAAAd/tobey-maguire-spider-man.gif" width="43%" style="float: right;">
+<img src="https://c.tenor.com/P8VsDwHZreYAAAAd/tobey-maguire-spider-man.gif" width="43%" style="float:left;margin:0 10px 10px 0">
 
 
 - 🔭 I’m currently working on a project for my portfolio
