@@ -1,8 +1,10 @@
 ### **Hi there, I'm Sadegh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello">**
 
 
-<div style="float: left;">
-  ## **I'm a Front-End Developer, Designer, and College Student!**
+## **I'm a Front-End Developer, Designer, and College Student!**
+
+<img src="https://c.tenor.com/P8VsDwHZreYAAAAd/tobey-maguire-spider-man.gif" width="43%" style="float: right;">
+
 
 - 🔭 I’m currently working on a project for my portfolio
 - 🌱 I’m currently learning everything
@@ -12,10 +14,7 @@
 - 📫 How to reach me: <a src="sadegh.rsg@gmail.com">sadegh.rsg@gmail.com</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: One thing I cannot live without is my spotify playlists
-  </div>
   
-
-<img src="https://c.tenor.com/P8VsDwHZreYAAAAd/tobey-maguire-spider-man.gif" width="43%" style="float: right;">
 
 
 ### **Connect with me:**
