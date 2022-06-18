@@ -1,5 +1,5 @@
 ### **Hi there, I'm Sadegh**
-<!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="12px" alt="Hello"> -->
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="12px" alt="Hello">
 
 ## **I'm a Front-End Developer, Designer, and College Student!**
 
@@ -58,7 +58,6 @@
 
 <!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sadeghrastgoo&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeghrastgoo&theme=dracula&hide_border=true" /></a> | -->
 <!-- | ------------- | ------------- | -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6nrhn8vs1lvp3m000eha60764&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <img src="https://www.codewars.com/users/Sadeegh/badges/large" />
 <a href="https://stackoverflow.com/users/14969055/sadegh-rastgoo"><img src="https://stackoverflow.com/users/flair/14969055.png" width="208" height="58" alt="profile for Sadegh Rastgoo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sadegh Rastgoo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
