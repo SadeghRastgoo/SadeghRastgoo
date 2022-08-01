@@ -2,7 +2,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="12px" alt="Hello"> -->
 
 ## **I'm a Front-End Developer, Designer, and College Student!**
-<img src="https://64.media.tumblr.com/f9d8212bc5b327bf2ae30725f0b38b6e/4e6a1ba3ea2d9c91-93/s540x810/86d91b8a95f6e8dda750876171c2f81725e8c8ea.gifv" align="right" />
+<img src="https://64.media.tumblr.com/f9d8212bc5b327bf2ae30725f0b38b6e/4e6a1ba3ea2d9c91-93/s540x810/86d91b8a95f6e8dda750876171c2f81725e8c8ea.gif" align="right" />
 
 
 - 🔭 I’m currently working on a project for my portfolio
