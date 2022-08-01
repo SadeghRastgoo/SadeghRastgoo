@@ -3,7 +3,7 @@
 
 ## **I'm a Front-End Developer, Designer, and College Student!**
 
-<img src="https://i.pinimg.com/originals/d8/63/c4/d863c4a79ac053437beb6e18937cecc4.gif" />
+<img src="https://i.pinimg.com/originals/d8/63/c4/d863c4a79ac053437beb6e18937cecc4.gif" style="float: right;" />
 
 - 🔭 I’m currently working on a project for my portfolio
 - 🌱 I’m currently learning everything
