@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for a Job opportunity...
-- 🥅 2022 Goal: Apply for a junior front-end developer position 
 - 📫 How to reach me: <a src="sadegh.rsg@gmail.com">sadegh.rsg@gmail.com</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: One thing I cannot live without is my spotify playlists  
